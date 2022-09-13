@@ -1,0 +1,29 @@
+body {
+  margin: 5px;
+  padding: 5px;
+  line-height: 1.15;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+ul li {
+  margin-left: 25px;
+  list-style-type: upper-roman;
+}
+
+nav li {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 5px;
+  display: inline-block;
+  height: 20px;
+  width: 150px;
+  border: 1.5px solid navy;
+  border-radius: 20px;
+  background-color: whitesmoke;
+  margin: 10px 20px;
+}
